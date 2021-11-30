@@ -11,4 +11,4 @@ timeoutID = setTimeout(() => {
         console.log('"Clock In" button disabler added.');
         alert('"Clock In" button disabler added.');
     }
-}, 1000);
+}, 2000);
