@@ -11,12 +11,4 @@ button after you've clicked it the first time.
 
 ### Installation
 
-    At this time, I don't intend to publish the extension.  If you would like
-to install it, follow these steps:
-
-    1. Fork this repo, then clone the fork
-    2. [Zip the extension](https://extensionworkshop.com/documentation/publish/package-your-extension/)
-    3. In Firefox, navigate to `about:addons` and install
-        - Click on the gear next to `Manage Your Extensions`
-        - Click on `Install Add-on From File...`
-        - Find and select the extension zip
+    [Click here](https://addons.mozilla.org/firefox/downloads/file/3875589/replicon_fixer-1.0-fx.xpi)
