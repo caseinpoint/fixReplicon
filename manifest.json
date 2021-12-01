@@ -14,5 +14,11 @@
             "matches": ["*://*.replicon.com/*/my/punch*"],
             "js": ["fixReplicon.js"]
         }
-    ]
+    ],
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "fixReplicon@github.com"
+        }
+    }
 }
