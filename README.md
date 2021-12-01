@@ -1,4 +1,4 @@
-## Replicon Clock In Bug Fix Extension
+## Replicon Clock-In Bug Fix Extension
 
 ### About
 
