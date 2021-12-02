@@ -22,7 +22,7 @@ function addDisabler() {
 setTimeout(() => {
     if (addDisabler()) {
         console.log('"Clock In" button disabler added.');
-        alert('"Clock In" button disabler added.');
+        alert('"Clock In" button disabler added. Refresh the page to re-enable the button.');
     } else {
         console.log('"Clock In" button doesn\'t exist yet. Trying again.')
         setTimeout(() => {
