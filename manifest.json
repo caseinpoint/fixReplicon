@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Replicon Fixer",
-    "version": "1.1.1",
+    "version": "1.1.2",
 
     "description": "Disables the 'Clock In' button after you click on it, so you don't clock in more than once.",
 

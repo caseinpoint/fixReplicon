@@ -12,4 +12,4 @@ reloading the page.
 
 ### Installation
 
-[Click here](https://addons.mozilla.org/firefox/downloads/file/3876402/replicon_fixer-1.1.1-fx.xpi)
+[Click here](https://addons.mozilla.org/firefox/downloads/file/3876404/replicon_fixer-1.1.2-fx.xpi)
