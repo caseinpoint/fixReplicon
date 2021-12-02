@@ -1,14 +1,18 @@
 'use strict';
 
-console.log('Replicon Fixer extension loaded.');
+console.log('(dev) Replicon Fixer extension loaded.');
 
 function addDisabler() {
     const theBtn = document.querySelector('.clockIn');
     if (theBtn === null) {
         return false;
     } else {
-        theBtn.addEventListener('click', (evt) => {
-            evt.target.disabled = true;
+        theBtn.addEventListener('mousedown', (evt) => {
+            console.log('Click event triggered.');
+            // evt.target.disabled = true;
+            setTimeout(() => {
+                document.querySelector('.clockIn').disabled = true;
+            }, 2000);
         });
         return true;
     }
