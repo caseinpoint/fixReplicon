@@ -1,5 +1,8 @@
 'use strict';
 
+// TODO: add "Clock Out" disabler/"Clock In" re-enabler
+// and remove alerts
+
 console.log('Replicon Fixer extension loaded.');
 
 function addDisabler() {
