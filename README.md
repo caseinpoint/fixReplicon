@@ -8,7 +8,7 @@ should be, and you will be paid for less time than you've worked.
 
 This Firefox extension inserts a script into the page that disables the "Clock
 In" button after you've clicked it the first time.  The button is re-enabled by
-reloading the page.
+Replicon's existing scripts when you click the "Clock Out" button.
 
 ### Installation
 
