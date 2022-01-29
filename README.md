@@ -19,6 +19,7 @@ Replicon's existing scripts when you click the "Clock Out" button.
 ### Installation
 
 [Click here](https://addons.mozilla.org/firefox/downloads/file/3901628/replicon_fixer-1.1.3-fx.xpi)
+
 (This is hosted on the official Mozilla addons site, and meets their security
 requirements)
 
