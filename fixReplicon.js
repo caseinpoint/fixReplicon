@@ -1,18 +1,17 @@
 'use strict';
 
-console.log('Replicon Fixer extension loaded.');
-
 function addDisabler() {
     const theBtn = document.querySelector('.clockIn');
 
     if (theBtn === null) {
+        // "Clock In" button hasn't been loaded into DOM yet
         return false;
     }
 
     theBtn.addEventListener('mousedown', (evt) => {
+        // wait for Replicon scripts to finish
         setTimeout(() => {
             theBtn.disabled = true;
-            // console.log('"Clock In" button disabled.');
         }, 2000);
     });
 
